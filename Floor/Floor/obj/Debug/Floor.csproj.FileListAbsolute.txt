@@ -1,0 +1,7 @@
+D:\gitdata\floor\Floor\Floor\bin\Debug\Floor.exe.config
+D:\gitdata\floor\Floor\Floor\bin\Debug\Floor.exe
+D:\gitdata\floor\Floor\Floor\bin\Debug\Floor.pdb
+D:\gitdata\floor\Floor\Floor\obj\Debug\Floor.csprojAssemblyReference.cache
+D:\gitdata\floor\Floor\Floor\obj\Debug\Floor.csproj.CoreCompileInputs.cache
+D:\gitdata\floor\Floor\Floor\obj\Debug\Floor.exe
+D:\gitdata\floor\Floor\Floor\obj\Debug\Floor.pdb
